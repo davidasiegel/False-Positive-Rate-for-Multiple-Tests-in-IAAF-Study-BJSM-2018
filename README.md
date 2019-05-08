@@ -2,6 +2,8 @@
 
 I don't create a lot of github files so forgive me for formatting errors.
 
+I have provided the simulations as a link in this github file: 
+
 The issue I would like to address here is the lack of multiple testing correction by Eklund et al. in their 2017 study and the followup 2018 study by Bermon et al, the latter titled "Serum androgen levels are positively correlated with athletic performance and competition results in elite female athletes".  http://dx.doi.org/10.1136/bjsports-2018-099700  The data is given in the supplementary information, available online (it's a Word document with a few tables).
 
 The 2017 study says that no multiple testing correction was performed because the tests were independent.  This is 100% wrong.  If 100 independent tests are performed on null data, then 5 of them on average should produce false positives at the p<0.05 level by the definition of the p-value.
