@@ -2,7 +2,7 @@
 
 I don't create a lot of github files so forgive me for formatting errors.
 
-I have provided the simulations as a link in this github file: https://github.com/davidasiegel/False-Positive-Rate-for-Multiple-Tests-in-IAAF-Study-BJSM-2018/blob/master/False%20Positive%20Rate%20for%20Multiple%20Tests%20in%20IAAF(%3F)%20Study%2C%20BJSM%202018.ipynb
+I have provided some simple simulations here: https://github.com/davidasiegel/False-Positive-Rate-for-Multiple-Tests-in-IAAF-Study-BJSM-2018/blob/master/False%20Positive%20Rate%20for%20Multiple%20Tests%20in%20IAAF(%3F)%20Study%2C%20BJSM%202018.ipynb
 
 The issue I would like to address here is the lack of multiple testing correction by Eklund et al. in their 2017 study and the followup 2018 study by Bermon et al, the latter titled "Serum androgen levels are positively correlated with athletic performance and competition results in elite female athletes".  http://dx.doi.org/10.1136/bjsports-2018-099700  The data is given in the supplementary information, available online (it's a Word document with a few tables).
 
